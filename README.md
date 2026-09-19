@@ -1,6 +1,6 @@
 # Hi, I'm Harshitha 👋
 
-### 💻 Junior Full Stack Developer | B.E. Computer Science & Engineering (Data Science)
+### Aspiring Software Engineer | B.E. Computer Science & Engineering (Data Science)
 
 ---
 
