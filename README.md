@@ -14,7 +14,7 @@ I'm strong at debugging, problem-solving and clear communication, and I learn fa
 - 🤖 **Previously:** AI & ML Intern at **Sathtern**, building AI/NLP proof-of-concept apps
 - 🎓 **Studying:** B.E. in Computer Science & Engineering (Data Science), Adichunchanagiri Institute of Technology, Chikkamagaluru (VTU), GPA 8.4/10, graduating 01/2027
 - 🌱 **Learning:** deeper full-stack development, testing and deployment
-- 💼 **Open to:** Junior Full Stack Developer roles and internships
+- 💼 **Open to:** Software Engineer roles and internships
 - 📍 Hassan, India
 
 ---
