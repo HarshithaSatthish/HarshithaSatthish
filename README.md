@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I'm a Computer Science (Data Science) undergraduate who enjoys building **complete product features across the frontend, backend and database layers**. Through a Web Development internship and end-to-end projects, I've worked with **React.js, Node.js, Express, FastAPI, MongoDB and MySQL**, integrated REST APIs, and used **Git and GitHub** for version control.
+I'm a Computer Science (Data Science) undergraduate who enjoys building **complete product features across the frontend, backend and database layers**. Through a Web Development internship and end-to-end projects, I've worked with **React.js, Node.js, FastAPI, MongoDB and MySQL**, integrated REST APIs, and used **Git and GitHub** for version control.
 
 I'm strong at debugging, problem-solving and clear communication, and I learn fastest by building. I'm eager to grow in a product team, take code-review feedback well, and ship clean, maintainable code.
 
